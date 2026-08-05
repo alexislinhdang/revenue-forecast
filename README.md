@@ -105,7 +105,7 @@ revenue-forecast/
 │   ├── 01_exploration.ipynb
 │   ├── 02_sensitivity_analysis.ipynb
 │   └── 03_forecasting_scenarios.ipynb
-│   └── app.py
+│   └── .gitignore
 └── README.md
 ```
 
